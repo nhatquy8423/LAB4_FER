@@ -1,0 +1,26 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+
+  font-family: "Arial", sans-serif;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.selector-container {
+  margin-bottom: 20px;
+}
+.btn {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  background-color: #e9ecef;
+  color: #333;
+  margin-bottom: 10px;
+}
